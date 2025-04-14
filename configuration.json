@@ -1,10 +1,10 @@
 {
     "spotify": {
-        "client_id": "a040ad722cf349eda2a786bd53ae590c",
-        "client_secret": "d73ff76b98eb42e4bd410ce9dfaaeb01",
+        "client_id": "<client_id>",
+        "client_secret": "<client_secret>",
         "batch_size": 5
     },
     "pubsub": {
-        "topic_path": "projects/silver-antonym-455606-q2/topics/spotify_tracks_topic"
+        "topic_path": "projects/<projects_id>/topics/spotify_tracks_topic"
     }
 }
